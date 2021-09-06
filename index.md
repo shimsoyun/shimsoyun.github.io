@@ -4,7 +4,9 @@
 
 ### 소속
 
-이화여자대학교 국제사무학과 
+이화여자대학교 국제사무학과 주전공
+기업가정신 연계전공 복수전공
+의류산업학과 부전공 
 
 ```markdown
 Syntax highlighted code block
