@@ -1,4 +1,5 @@
 # 심소연의 포트폴리오
+<img src="https://user-images.githubusercontent.com/90169187/139451534-801fd54b-ce2f-4a34-90fa-4ff4a507d717.jpg" align="right">
 
 생년월일 : 2000.10.20<br/>
 MBTI : ESFJ<br/>
