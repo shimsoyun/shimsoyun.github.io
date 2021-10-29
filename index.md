@@ -1,37 +1,37 @@
-## 심소연 이력서
+# 심소연의 포트폴리오
 
-안녕하세요 반갑습니다. 
+생년월일 : 2000.10.20<br/>
+MBTI : ESFJ<br/>
+이메일 : 0soy.doer0@gmail.com<br/>
 
-### 소속
+## 소속
 
-이화여자대학교 국제사무학과 주전공
-기업가정신 연계전공 복수전공
-의류산업학과 부전공 
+이화여자대학교 국제사무학과 주전공<br/>
+기업가정신 연계전공 복수전공<br/>
+의류산업학과 부전공
 
-```markdown
-Syntax highlighted code block
+### 경력 사항 
 
-# Header 1
-## Header 2
-### Header 3
+2020.03-2020.09 대학생 발표 동아리 크레파스 19기<br/>
+2020.08 대학생 연합 프레젠테이션 대회 우수상<br/>
+2020.04-2020.10 다수 국제 포럼 통역 봉사<br/>
+2020.10-2021.25 독서 토론 동아리 "부기업" 운영<br/> 
+2020.09-2021.03 이화여자대학교 국악 동아리 "닐리리화" 해금부<br/>
+2020.12-2021.03 유네스코 한국위원회 동계인턴<br/>
+2021.04-2021.12 영등포구 봉사 기획 동아리 꿈틀 6기<br/> 
+2021.03-2021.06 매일경제신문 서포터즈<br/> 
+2021.08 DB 경영스쿨 수료<br/>
+2021.10 창업유망300 교육형 최우수상<br/>
+2021.10이화여자대학교 신융대 크리에이티브 챌린지 장려상<br/>
+2021.09 한국의류학회 패션 콘테스트 브랜드상<br/> 
+2021.10 여대생 벤처성장 챌린지 우수상<br/>
+2021.09 DMC 창업 경진대회 본선진출<br/>
+2021.11 KT&G 사회 혁신 아이디어 공모전<br/> 
+2021.11한국경영정보학회 아이디어 공모전<br/>
 
-- Bulleted
-- List
+### 자격증 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shimssssooo/shimsssooo-gitub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+컴퓨터 활용능력 1급<br/>
+ITQ : PPT. 한글. Excel, Word<br/>
+TOKL 3급<br/>
+DELE B1<br/>
